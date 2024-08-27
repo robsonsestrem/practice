@@ -1,1 +1,1 @@
--- Nova função desenvolvida
+-- Nova função desenvolvida - melhoria 01
